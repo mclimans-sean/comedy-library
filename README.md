@@ -1,5 +1,4 @@
-:laughing: :laughing: :laughing:  (CRUD) COMEDY LIBRARY  :laughing: :laughing: :laughing:
-                                  =====================
+:laughing: :laughing: :laughing:  #(CRUD) COMEDY LIBRARY#  :laughing: :laughing: :laughing:
 
 * CRUD exercise. Building a JSON API that will allow the user to CREATE,
 READ, UPDATE, & DELETE a resource in a database

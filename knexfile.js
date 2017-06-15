@@ -4,6 +4,6 @@ module.exports = {
 
   development: {
     client: 'pg',
-    connection: 'postgres://localhost/sm-comedy-store'
+    connection: 'postgres://localhost/sm-comedy-library'
   },
 };
